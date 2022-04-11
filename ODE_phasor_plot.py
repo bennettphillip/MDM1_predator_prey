@@ -46,3 +46,4 @@ plt.xlabel('amount of hares $r$')
 plt.ylabel('amount of lynx $F$')
 plt.title('phasespace')
 plt.show()
+#
